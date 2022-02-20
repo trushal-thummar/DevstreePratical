@@ -1,0 +1,22 @@
+.d-b{
+	display: inline-block !important;
+}
+form label.error {
+	color: #f00;
+	margin-bottom: 0 !important;
+}
+.clr-red{
+	color: red !important;
+}
+.pr-logo{
+	height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.d-n{
+	display: none !important;
+}
+.w-160{
+	width: 160px;
+}
